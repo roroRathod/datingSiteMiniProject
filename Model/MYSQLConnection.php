@@ -3,10 +3,10 @@
 
 class MYSQLConnection extends PDO
 {
-    private const serverName = 'sql205.infinityfree.com';
-    private const database = 'if0_37682655_rushi_projects';
-    private const username = 'if0_37682655';
-    private const password = 'H4Oib4haS7ytmq';
+    private const serverName = 'localhost';
+    private const database = 'if0_37682655_php_mini_project';
+    private const username = 'root';
+    private const password = '';
     private const connectionString = 'mysql:host=' . self::serverName . ";dbname=" . self::database;
 
     private ?PDO $connection = null;

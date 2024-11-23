@@ -20,8 +20,8 @@ SET time_zone = "+00:00";
 --
 -- Database: `rushi_project`
 --
-CREATE DATABASE IF NOT EXISTS `if0_37682655_rushi_projects` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
-USE `if0_37682655_rushi_projects`;
+CREATE DATABASE IF NOT EXISTS `php_mini_project` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
+USE `php_mini_project`;
 
 -- --------------------------------------------------------
 

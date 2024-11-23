@@ -2,18 +2,10 @@
  This is a solo project by me only using PHP.
  so the challenge was to use PHP as much as I Can just to make Tinder Clone.
  
- 
- And another challenge was to have it all ready and working just in a week so all of this work has been done by me in a week.
- 
- [Dating site Demo](project_gif.gif)
- 
-## Created with MVC 
-
-I have created this project using MVC (although I wish I did it from the beginning of the project. I added MVC later so file managing file structure and references was a headache not gonna lie :sweat_smile: )
 
 # Installation steps:
  
-[first run this script on your sql script in phpmyadmin](scripts/rushi_project.sql)
+[first run this script on your sql script in phpmyadmin](scripts/php_mini_project.sql)
 
 - then clone this directory and put inside your htdocs folder.
 
@@ -73,7 +65,3 @@ this is the page that you can access only when you are logged in and once you ge
  - Message page:
   - onclicking any of the matched profiles you will get to the message him/ mer page where you can chat. in this page you will have to reload in order to load the message **I Suggest that you restart the page**
   
-  
-  ### Task Distribution 
-  as I was doing this project SOLO I have done everything!
-
